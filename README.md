@@ -1,10 +1,10 @@
-### Hi, I'm Isaak!
+### Hi, I'm Isaak! 🤙
 
 🎓 Engineering and Software Development Technician - CEDUP
 
 🎓 Information systems - Uniasselvi
 
-💼 Full Stack developer.
+💼 Test analyst and Full Stack developer.
 
 ### Languages
 <div style="display: inline_block"><br>
