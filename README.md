@@ -9,5 +9,5 @@
 
 ### Technologies Used
 <div style="display: inline_block"><br>
-  <img align="center" alt="dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)">
+  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </div>
