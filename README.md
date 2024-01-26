@@ -4,7 +4,7 @@
 
 🎓 Information systems - Uniasselvi
 
-💼 Test analyst and Full Stack developer.
+💼 Test analyst and Mobile developer.
 
 ### Languages 💻
 <div style="display: inline_block"><br>
