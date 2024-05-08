@@ -4,8 +4,6 @@
 
 🎓 Information systems - Uniasselvi
 
-💼 Test analyst and Mobile developer.
-
 ### Languages 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">  
